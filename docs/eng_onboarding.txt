@@ -1,0 +1,7 @@
+Engineering Onboarding Guide
+
+New joiners in the Engineering team are expected to complete the onboarding checklist within the first 10 working days. This includes setting up corporate email, Slack, GitHub access, and completing mandatory security training.
+
+Each new joiner will be assigned a buddy for the first month to help with team integration and process familiarity.
+
+For access-related issues during onboarding, contact IT Support at it.support@guardrailcorp.com or reach out to Onboarding Coordinator Vikram Joshi (vikram.joshi@guardrailcorp.com).

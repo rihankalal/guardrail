@@ -1,0 +1,9 @@
+cd C:\guardrail-rag-solo
+@"
+venv/
+__pycache__/
+*.pyc
+audit_log.db
+audit_log_export.xlsx
+.env
+"@ | Out-File -FilePath .gitignore -Encoding utf8
